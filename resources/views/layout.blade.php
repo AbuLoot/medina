@@ -6,9 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>@yield('title_description', 'Medina')</title>
   <meta name="description" content="@yield('meta_description', 'Medina')">
+  <meta name="yandex-verification" content="0d3bedd49ba9b292" />
 
-  <link rel="icon" href="/img/favicon.png" sizes="16x16" type="image/png">
-  <link rel="shortcut icon" href="/img/favicon.png" sizes="16x16" type="image/png">
+  <link rel="icon" href="/favicon.png" sizes="16x16" type="image/png">
+  <link rel="shortcut icon" href="/favicon.png" sizes="16x16" type="image/png">
 
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
   <!-- Animate css

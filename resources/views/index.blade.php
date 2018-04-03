@@ -9,7 +9,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="camera_wrap  main-slider2">
-          <div data-thumb="img/medina/slide1.jpg" data-src="img/medina/slide1.jpg">
+          <div data-thumb="img/medina/bg3.jpg" data-src="img/medina/bg3.jpg">
             <div class="container">
               <div class="row">
                 <div class="col-xs-12 col-md-8">
@@ -22,7 +22,7 @@
               </div>
             </div>
           </div>
-          <div data-thumb="img/medina/slide2.jpg" data-src="img/medina/slide2.jpg">
+          <div data-thumb="img/medina/bg2.jpg" data-src="img/medina/bg2.jpg">
             <div class="container">
               <div class="row">
                 <div class="col-xs-12 col-md-8">
@@ -53,7 +53,7 @@
                 <div class="toolbar-container-icon"> <i class="icofont icofont-clock-time"></i> </div>
                 <div class="toolbar-container-text">
                   <p>Режим работы</p>
-                  <h6>Понедельник - Пятница: 08:00 - 17:00</h6>
+                  <h6>24 часа в сутки</h6>
                 </div>
               </li>
             </ul>
@@ -66,8 +66,8 @@
                 <div class="toolbar-container-icon"> <i class="icofont icofont-ui-call"></i> </div>
                 <div class="toolbar-container-text">
                   <p>Свяжитесь снами</p>
-                  <h6>+7 700 444 1057</h6>
-                  <h6>+7 701 295 5889</h6>
+                  <h6>+7 700 444 2144</h6>
+                  <h6>+7 701 444 1057</h6>
                 </div>
               </li>
             </ul>
