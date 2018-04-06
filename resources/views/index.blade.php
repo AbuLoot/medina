@@ -66,8 +66,7 @@
                 <div class="toolbar-container-icon"> <i class="icofont icofont-ui-call"></i> </div>
                 <div class="toolbar-container-text">
                   <p>Свяжитесь снами</p>
-                  <h6>+7 700 444 2144</h6>
-                  <h6>+7 701 444 1057</h6>
+                  <h6>+7 701 444 2144</h6>
                 </div>
               </li>
             </ul>
